@@ -1,2 +1,2 @@
-Nombre: Jorge Avila
+Jorge Avila
 
